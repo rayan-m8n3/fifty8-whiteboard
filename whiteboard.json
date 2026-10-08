@@ -5,11 +5,11 @@
 
     "licenses": {
 
-        "F58-XXXX-XXXX-XXXX": {
+        "F58-bouka-2026-001": {
             "status": "active",
-            "server": "اسم السيرفر هنا",
-            "owner": "اسم الشخص",
-            "note": "مثال مفتاح نشط"
+            "server": "بويكا وسيرفره المعوق",
+            "owner": "بويكا",
+            "note": "مفتاح نشط"
         },
 
         "F58-TEST-0001-DEMO": {
