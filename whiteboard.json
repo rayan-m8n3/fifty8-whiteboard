@@ -12,6 +12,14 @@
             "note": "مفتاح نشط"
         },
 
+        "FIFTY8-OWNER-RAYAN-2026-MASTER": {
+            "status": "active",
+            "server": "بويكا وسيرفره المعوق",
+            "owner": "بويكا",
+            "note": "مفتاح نشط"
+        },
+
+        
         "F58-TEST-0001-DEMO": {
             "status": "active",
             "server": "fifty8 PvP الرسمي",
